@@ -1,0 +1,7 @@
+{
+  "name": "tingen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
